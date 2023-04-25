@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaylorMurdock.
+- 👋 Hi, I’m Taylor Murdock.
 - 👀 I’m interested in rock climbing, hiking, camping, and pretty much anything outdoors.
 - 🌱 I’m currently in a General Assembly Software Immersive program
 - 💞️ I’m looking to collaborate on beginner coding projects
